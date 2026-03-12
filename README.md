@@ -35,14 +35,14 @@ The goal is to strengthen Java fundamentals and improve problem-solving skills t
 
 ```
 OOPs-Java-Assignments/
-├── Assignment1.java      # Classes and Objects
-├── Assignment2.java      # Encapsulation
-├── Assignment3.java      # Inheritance
-├── Assignment4.java      # Polymorphism
-├── Assignment5.java      # Abstraction
-├── Assignment6.java      # Constructors
-├── Assignment7.java      # Method Overloading
-├── Assignment8.java      # Method Overriding
+├── Assignment1.java      
+├── Assignment2.java      
+├── Assignment3.java      
+├── Assignment4.java      
+├── Assignment5.java      
+├── Assignment6.java      
+├── Assignment7.java      
+├── Assignment8.java    
 └── README.md
 ```
 
@@ -59,7 +59,7 @@ OOPs-Java-Assignments/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/OOPs-Java-Assignments.git
+git clone https://github.com/siddharth9508kumar/OOPs-Java-Assignments.git
 ```
 
 **2. Navigate to the project folder**
